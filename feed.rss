@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Mi primera web con RSS</title> 
+<link>https://github.com/jandrespad/jandrespad.github.io/blob/master/feed.xml</link> 
+<description>Un lugar donde encontrarás las noticias más actualizadas sobre tecnología</description> 
+<language>es-ES</language>
+<item>
+<title>HTCMania</title> 
+<link>https://www.htcmania.com/</link> 
+<description>La mayor comunidad hispana sobre smartphones, tablets y wearables.</description> 
+</item>
+<item>
+<title>Xataka</title> 
+<link>https://www.xataka.com/</link> 
+<description>Publicación de noticias sobre gadgets y tecnología. Últimas tecnologías en electrónica de consumo y novedades tecnológicas en móviles, tablets, informática...</description> 
+</item>
+<item>
+<title>Computer Hoy</title> 
+<link>https://computerhoy.com/</link> 
+<description>Web especializada en noticias, tutoriales y análisis de gadgets, tecnología, gaming, entretenimiento, ciencia e Internet.</description> 
+</item>
+<item>
+<title>El Chapuzas Informático</title> 
+<link>https://elchapuzasinformatico.com/</link> 
+<description>El Chapuzas Informático es la web líder en crecimiento enfocada al mundo de la informática. También podrás encontrar noticias de tecnología en general</description> 
+</item>
+<item>
+<title>ADSLZone</title> 
+<link>https://www.adslzone.net/</link> 
+<description>Portal sobre ADSL, fibra óptica, tecnología y telefonía móvil que cuenta con noticias de actualidad, manuales de ayuda y foros.</description> 
+</item>
+</channel>
+</rss>
